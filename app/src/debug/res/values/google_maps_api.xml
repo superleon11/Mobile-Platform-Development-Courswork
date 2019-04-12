@@ -1,0 +1,25 @@
+<resources>
+    <!--  Jordan O'Donnell MPD Coursework s1316134  -->
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=20:06:1F:7A:A5:5B:31:13:3E:E0:BA:55:97:FB:CA:BC:68:26:06:EA%3Bs1316134.mpd.bgsdatastarter
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    20:06:1F:7A:A5:5B:31:13:3E:E0:BA:55:97:FB:CA:BC:68:26:06:EA
+
+    SHA-1 certificate fingerprint:
+    20:06:1F:7A:A5:5B:31:13:3E:E0:BA:55:97:FB:CA:BC:68:26:06:EA
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCSsE-nRxr9ktd3fXT0aF5IfwefnF8qkRE</string>
+</resources>
